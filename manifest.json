@@ -1,7 +1,7 @@
 {
     "name": "Tasker",
     "short_name": "Tasker",
-    "start_url": "index.html",
+    "start_url": "/Tasker/index.html",
     "display": "standalone",
     "background_color": "#F4F4F4",
     "theme_color": "#F4F4F4",
